@@ -86,7 +86,8 @@ a {
 }
 
 p {
-    text-align: justify;
+    text-align: left;
+    line-height:150%;
 }
 
 strong {
@@ -126,7 +127,7 @@ blockquote {
     font-weight: 400;
     font-size: 30px;
     color: #111;
-    margin: 0 0 70px;
+    margin: 0 0 35px;
 }
 
 .module-subtitle {

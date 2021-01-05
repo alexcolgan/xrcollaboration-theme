@@ -71,7 +71,8 @@ DO NOT EDIT IN STYLE.CSS
     
     .caption-top {
         figure {
-            display: table;
+            display: table; 
+
         }
         figcaption {
             display: table-caption;
@@ -86,7 +87,7 @@ DO NOT EDIT IN STYLE.CSS
     }
     
     .col-right {
-        padding-right: 0px;
+        padding-right: 0px; 
     }
     
     .clear {
@@ -165,14 +166,10 @@ DO NOT EDIT IN STYLE.CSS
         min-height: 100vh;
         display: block;
         max-width:100%;
-        overflow-x: hidden;
-        @media(px){
-          
-        }
     }
     
     html {
-      
+        overflow-x: hidden;
     }
     
     body {

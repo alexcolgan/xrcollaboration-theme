@@ -28,6 +28,9 @@
         a {
             display: block;
             width: 100%;
+            img {filter: grayscale(100%);
+            opacity:.5;
+            }
         }
     }
 }
